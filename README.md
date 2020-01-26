@@ -15,4 +15,4 @@ But this test cases was seperated 5 classes like 'Login', 'AddProductToCard', 'V
 You can define browser driver in config.properties file. Only you have to change browser property. You can set only 'Chrome', 'Firefox', 'IE', 'Opera'.
 You can also define username and password in config.properties. 
 
-To Loggin issue, We have used log4j library. 
+To Log issue, We have used log4j library. 
